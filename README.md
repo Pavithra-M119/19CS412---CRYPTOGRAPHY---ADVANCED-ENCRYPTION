@@ -7,7 +7,7 @@ STEP-1: Select two co-prime numbers as p and q.
 
 STEP-2: Compute n as the product of p and q.
 
-STEP-3: Compute (p-1)*(q-1) and store it in z.
+STEP-3: Compute (p-1)*(q-1) and store it in z. 
 
 STEP-4: Select a random prime number e that is less than that of z.
 
